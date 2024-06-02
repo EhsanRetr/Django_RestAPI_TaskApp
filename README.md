@@ -24,3 +24,4 @@ for authentication
 you can see the models instance in here
 
 # tanks for reading
+more details in the respository README.md file
